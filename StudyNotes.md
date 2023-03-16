@@ -421,7 +421,9 @@
 ```
 -Web Application Firewall protect your web applications from common web exploits 
 -Protects OSI Layer 7
-59 AWS Shield
+```
+## AWS Shield
+```
 -DDOS protection service that safeguards
 -Two tiers 
     -Standard 
