@@ -49,7 +49,7 @@
 ```
 -Edge Location - Location where content will be cached. Separate from AWS Region/AZ
 -Origin - Origin of all the files that the CDN will distribute
--Distribution - Name given the CDN 
+-Distribution - A CloudFront distribution is a link between an origin server and a domain name, which CloudFront uses to identify the object you have stored in your origin server.
 -Types of Distribution 
     -Web Distribution -Websites
     -RTMP -Media Streaming 
