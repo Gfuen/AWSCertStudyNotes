@@ -102,11 +102,12 @@
 ```
 ## Non-Relational Database (DynamoDB)
 ```
+-Managed NoSQL DB
 -No joins or complex queries
 ```
 ## Graph Database (Neptune)
 ```
-- High AZ
+-High AZ
 -Scalable
 ```
 ## Relational Database (Aurora)
