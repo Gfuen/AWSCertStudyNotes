@@ -2,7 +2,7 @@
 
 ## 6 Advantages of Cloud Computing 
 ```
-- Trade Capital Expense for Variable Expense 
+* Trade Capital Expense for Variable Expense 
 -Benefit from massive economies of scale 
 -Stop guessing about capacity 
 -Increase speed and agility 
