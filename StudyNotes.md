@@ -209,7 +209,7 @@
 ```
 ## 3 fundamental drivers of cost AWS
 ```
--AWS 
+-Compute
 -Storage 
 -Data Outbound
 ```
